@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "action": "UPDATE"
+  },
+  "body": [
+    {
+      "id": 1,
+      "content": "page1"
+    },
+    {
+      "id": 2,
+      "content": "page2"
+    },
+    {
+      "id": 4,
+      "content": "page4"
+    }
+  ]
+}
