@@ -1,0 +1,2 @@
+The project implements Memory Management Unit (MMU)- Translation of the virtual address space that the process "knows" into the physical address space (representing memory main and secondary)- in the software operating system only,</br>
+using object-oriented programming principles, design pattern, multi-threads, libraries and data structures built into JAVA.
